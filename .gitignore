@@ -1,0 +1,19 @@
+# 项目排除路径
+/.gradle/
+/build/
+/buildSrc/.gradle/
+/buildSrc/build/
+/buildSrc/build/classes/java/main/
+/spring-beans/build/
+/spring-beans/build/classes/java/main/
+/spring-beans/build/classes/java/test/
+/spring-beans/build/classes/java/testFixtures/
+/spring-core/build/
+/spring-core/build/classes/java/main/
+/spring-core/build/classes/java/testFixtures/
+/spring-core/graalvm/build/
+/spring-core/graalvm/build/classes/java/main/
+/spring-core-test/build/
+/spring-core-test/build/classes/java/main/
+/spring-jcl/build/
+/spring-jcl/build/classes/java/main/
